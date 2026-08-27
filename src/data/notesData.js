@@ -55,7 +55,7 @@ export const jarsData = [
   // ─────────────────────────────────────────────────────────
   {
     id: 'jar-hurt',
-    label: 'Read This When You Think You Hurt Me',
+    label: 'Open When We Have a Fight',
     accentColor: '#93c5fd',
     messages: [
       "See, I know that I am mad at u, but it's only for few moments. I will be back. Don't worry.",
