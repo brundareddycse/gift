@@ -90,7 +90,7 @@ const SONGS = [
   title: 'Super Trouper',
   artist: 'ABBA',
   audio: '/music/song7.mp3',
-  startTime: 5,
+  startTime: 2,
   albumColor: '#f5d76e',
 },
 ];
